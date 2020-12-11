@@ -1,0 +1,10 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==3.0.4
+idna==2.10
+iso8601==0.1.13
+m3u8==0.7.1
+requests==2.25.0
+soupsieve==2.0.1
+urllib3==1.26.2
